@@ -1,4 +1,4 @@
-# My-Notes-App
+# Notes App For Tablets
 
 **This app is currently optimised only for tablets...**
 
