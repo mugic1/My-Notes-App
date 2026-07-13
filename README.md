@@ -4,4 +4,4 @@
 
 
 ##checkout my other project
-```bash https://mugic1.github.io/devcode-saver/
+- https://mugic1.github.io/devcode-saver/
